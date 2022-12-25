@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: beige;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  margin-top: 5rem;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+button {
+  padding: 0.5em 1em;
+  border-radius: 0.4em;
+  border: 0.1em solid black;
+  cursor: pointer;
+}
+.input2 {
+  margin-top: 1rem;
+}
